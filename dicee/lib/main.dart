@@ -1,3 +1,5 @@
+// DICE APP MAIN FILE //
+
 import 'package:flutter/material.dart';
 import 'dart:math';
 
